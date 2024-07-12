@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nirmal-sutradhar
-- 👀 I’m interested in Data Analytics | BI visualization
-- 🌱 I’m currently upskilling and building SQL & Power BI Portfolio Projects
+- 👀 Microsoft Certified : Power BI Data Analyst | SQL | Python Numpy & Pandas
+- 🌱 Actively looking for opportunities in the field of Data Analytics, BI Visualization
 - 📫 Email - nirmal.sutradhar0@gmail.com
 - 🌐 LinkedIn - www.linkedin.com/in/nirmal-sutradhar-895726175
 
